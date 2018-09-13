@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed>
+    <Header>
+        <Email>fernandeshenrique15@gmail.com</Email>
+        <ContactName>Henrique</ContactName>
+        <Telephone>(48)9 9611-2766</Telephone>
+    </Header>
+    <Listings>
+        <Listing>
+            <ListingID>100</ListingID>
+            <Title>
+                Apartamento Padrão para Aluguel em SC
+            </Title>
+            <TransactionType>For Rent</TransactionType>
+            <Status>
+                <PropertyStatus>Available</PropertyStatus>
+                <ClosingPrice currency="BRL">0</ClosingPrice>
+            </Status>
+            <Media>
+                <Item medium="image" caption="">https://cdn.pixabay.com/photo/2017/03/29/11/45/dunes-2184976_960_720.jpg</Item>
+                <Item medium="image" caption="">https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg</Item>
+            </Media>
+        </Listing>
+        <Listing>
+            <ListingID>101</ListingID>
+            <Title>
+                Casa Padrão para Aluguel em SC
+            </Title>
+            <TransactionType>For Rent</TransactionType>
+            <Status>
+                <PropertyStatus>Available</PropertyStatus>
+                <ClosingPrice currency="BRL">0</ClosingPrice>
+            </Status>
+            <Media>
+                <Item medium="image" caption="">https://cdn.pixabay.com/photo/2014/02/27/16/10/spring-276014_960_720.jpg</Item>
+                <Item medium="image" caption="">https://cdn.pixabay.com/photo/2014/12/04/14/46/magnolia-trees-556718_960_720.jpg</Item>
+            </Media>
+        </Listing>
+    </Listings>
+</ListingDataFeed>
